@@ -1,6 +1,9 @@
 # Mac files
 .DS_Store
 
+# dotenv environment variables file
+.env
+.env.test
 # VSCode settings
 .vscode/
 
@@ -88,3 +91,4 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
